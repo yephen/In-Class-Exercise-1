@@ -11,7 +11,7 @@ Should there be a difference, why or why not?
 
 # Part 2 Man Pages
 
-View and navigate the man page for the `ls` command wich the keyboard shortcuts discussed in lecture. Search for the options we used in part 1.  
+View and navigate the man page for the `ls` command with the keyboard shortcuts discussed in lecture. Search for the options we used in part 1.  
 
 Using the `man` command find the option that makes the `cp` command interactive.  
   
