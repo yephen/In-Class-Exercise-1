@@ -1,0 +1,19 @@
+[2025-10-05 22:10:29] [/workspaces/In-Class-Exercise-1] source .devcontainer/shell.sh
+[2025-10-05 22:10:34] [/workspaces/In-Class-Exercise-1] ls -all
+[2025-10-05 22:13:19] [/workspaces/In-Class-Exercise-1] ls -a
+[2025-10-05 22:13:34] [/workspaces/In-Class-Exercise-1] man
+[2025-10-05 22:15:15] [/workspaces/In-Class-Exercise-1] man cp
+[2025-10-05 22:15:17] [/workspaces/In-Class-Exercise-1] man
+[2025-10-05 22:15:53] [/workspaces/In-Class-Exercise-1] man man
+[2025-10-05 22:27:13] [/workspaces/In-Class-Exercise-1] man ls
+[2025-10-05 22:27:16] [/workspaces/In-Class-Exercise-1] cp
+[2025-10-05 22:27:19] [/workspaces/In-Class-Exercise-1] cp --help
+[2025-10-05 22:27:45] [/workspaces/In-Class-Exercise-1] cp -i
+[2025-10-05 22:27:55] [/workspaces/In-Class-Exercise-1] q
+[2025-10-05 22:28:00] [/workspaces/In-Class-Exercise-1] apropos
+[2025-10-05 22:28:04] [/workspaces/In-Class-Exercise-1] apropos password
+[2025-10-05 22:29:08] [/workspaces/In-Class-Exercise-1] echo $HOME
+[2025-10-05 22:29:12] [/workspaces/In-Class-Exercise-1] echo $PATH
+[2025-10-05 22:29:29] [/workspaces/In-Class-Exercise-1] date
+[2025-10-05 22:29:30] [/workspaces/In-Class-Exercise-1] date
+[2025-10-05 22:32:08] [/workspaces/In-Class-Exercise-1] git status
